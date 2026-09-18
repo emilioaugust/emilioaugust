@@ -8,7 +8,6 @@ I enjoy designing robust architectures and turning complex problems into elegant
 ## 📁 What You'll Find Here?
 
 - 📱 Android development projects using Kotlin
-- 🧩 Backend projects
 - ⚙️ Automation scripts and developer tools
 - 🧪 Experiments and personal learning projects
 
